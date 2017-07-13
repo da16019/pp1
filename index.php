@@ -90,5 +90,6 @@ Datums:
     $assarr = ['pirmais'=>1, 'otrais'=>2,'trešais'=>3, 'ceturtais'=>4];
     printarr($assarr);
 ?>
+ata, master.
 </body>
 </html>
